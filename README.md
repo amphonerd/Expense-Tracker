@@ -19,6 +19,4 @@ A command-line expense tracker built with Python and PostgreSQL.
 
 ## Tech
 Python, PostgreSQL, SQL, psycopg2
-"# ExpenseTracker" 
-"# ExpenseTracker" 
-"# Expense-Tracker" 
+
